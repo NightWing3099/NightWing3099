@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript, NextJ, and  Java **
 
-- 👨‍💻 All of my projects are available at [https://www.iree-hale.com/](https://www.iree-hale.com/)
+- 👨‍💻 All of my projects are available at [https://www.iree-hale.com/](https://www.ireehale.pro/)
 
 - 💬 Ask me about **JavaScript. React, and NextJS**
 
