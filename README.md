@@ -27,6 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightwing3099&show_icons=true&locale=en" alt="nightwing3099" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightwing3099&" alt="nightwing3099" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ireehale&" alt="ireehale" /></p>
